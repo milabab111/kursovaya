@@ -1,0 +1,16 @@
+Import requests as req
+From os import list fir, makers
+From yandex_hw import YaUploader
+From tqdm import tqdm
+
+
+
+
+
+
+
+
+
+
+
+
